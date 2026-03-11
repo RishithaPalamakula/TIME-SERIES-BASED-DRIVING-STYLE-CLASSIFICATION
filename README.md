@@ -18,6 +18,13 @@ The project output video is available here: [Watch Video](https://drive.google.c
 - NumPy
 - Machine Learning
 - streamlit
+#Markdown
+##How to Run this Application
+1.install required libraries
+  pip install streamlit pandas numpy
+2.Run the Application
+  streamlit run app.py
 
 ## Author
 Rishitha Palamakula
+
